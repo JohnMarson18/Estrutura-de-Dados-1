@@ -70,7 +70,7 @@ Análise comparativa entre **Bubble Sort**, **Selection Sort** e **Insertion Sor
 
 | Diretório | Descrição |
 | :--- | :--- |
-| `/busca_substring_recursiva` | Algoritmo recursivo que busca a ocorrência de uma palavra dentro de um texto, retornando o índice inicial[cite: 251, 256]. |
+| `/busca_substring_recursiva` | Algoritmo recursivo que busca a ocorrência de uma palavra dentro de um texto, retornando o índice inicial. |
 
 ---
 
